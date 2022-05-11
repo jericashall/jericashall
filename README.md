@@ -1,4 +1,4 @@
-<img src="">
+<img src="banner.png">
 <h1 align="center">Hi 👋, I'm Jerica Hall</h1>
 <h3 align="center">A freelance software engineer that specializes in full-stack web development. I'm passionate about building quality and ethical applications.</h3>
 
