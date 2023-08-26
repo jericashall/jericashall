@@ -1,12 +1,11 @@
 <img src="banner.png">
 <h1 align="center">Hi 👋, I'm Jerica Hall</h1>
-<h3 align="center">I'm a freelance software engineer that specializes in full-stack web development. I'm passionate about building quality and ethical applications.</h3>
+<h3 align="center">I'm a freelance software engineer who specializes in full-stack web development. I'm passionate about building quality and ethical applications.</h3>
 
 <p align="center"> 👨‍💻 My portfolio is viewable <a href="https://jericahall.netlify.app/" target="_blank">here.</a> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jerica-hall-a02747129/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jerica-hall-a02747129/" height="30" width="40" /></a>
 </p>
 
