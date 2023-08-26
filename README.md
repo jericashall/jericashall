@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Jerica Hall</h1>
 <h3 align="center">I'm a freelance software engineer that specializes in full-stack web development. I'm passionate about building quality and ethical applications.</h3>
 
-<p align="center"> <a href="https://twitter.com/jrxisha" target="_blank"><img src="https://img.shields.io/twitter/follow/jrxisha?logo=twitter&style=for-the-badge" alt="jrxisha" /></a> </p>
-
 <p align="center"> 👨‍💻 My portfolio is viewable <a href="https://jericahall.netlify.app/" target="_blank">here.</a> </p>
 
 <h3 align="center">Connect with me:</h3>
